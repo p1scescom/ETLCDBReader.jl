@@ -5,7 +5,7 @@ ETLCDBReader.jl is a library to read binary of [ETL Character Database](http://w
 
 You need to sign up to use ETL Character Database.
 After, you can download the dataset.
-you use unziped the directory.
+You use unziped the directory.
 
 # Please Pull Request
 I hope your pull Request.
@@ -13,17 +13,17 @@ I hope your pull Request.
 # Support dataset
 List of dataset supprted ETLCDBReader
 
-- [] ETL1
-- [] ETL2
-- [] ETL3
-- [] ETL4
-- [] ETL5
-- [] ETL6
-- [] ETL7L
-- [] ETL7S
-- [] ETL8G
-- [] ETL8B2
-- [] ETL9G
+- [ ] ETL1
+- [ ] ETL2
+- [ ] ETL3
+- [ ] ETL4
+- [ ] ETL5
+- [ ] ETL6
+- [ ] ETL7L
+- [ ] ETL7S
+- [ ] ETL8G
+- [ ] ETL8B2
+- [ ] ETL9G
 - [x] ETL9B
 
 # Heed
